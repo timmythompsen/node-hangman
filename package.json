@@ -1,0 +1,23 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "description": "node hangman game",
+  "main": "main.js",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timmythompsen/node-hangman.git"
+  },
+  "author": "Tim Thompsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timmythompsen/node-hangman/issues"
+  },
+  "homepage": "https://github.com/timmythompsen/node-hangman#readme"
+}
